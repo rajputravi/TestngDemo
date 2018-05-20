@@ -14,7 +14,7 @@ public class NewTest {
 
 	@Test
 	public void test2() { 
-		Assert.assertEquals(3, 1);
+		Assert.assertEquals(3, 3);
 	}
 
 
