@@ -16,6 +16,11 @@ public class NewTestAgain {
 	public void testAgain2() { 
 		Assert.assertEquals(3, 2+1);
 	}
+	
+	@Test
+	public void testAgain3() { 
+		Assert.assertEquals(4, 2+2);
+	}
 
 
 }
