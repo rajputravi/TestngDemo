@@ -17,6 +17,11 @@ public class NewTest {
 		Assert.assertEquals(3, 3);
 	}
 
+public void test()
+{
+	Assert.assertEquals(5, 5*1);
+}
+
 
 }
 
